@@ -1,0 +1,3 @@
+Biskevit,10,90
+Elma,60,60
+Kola,20,120
